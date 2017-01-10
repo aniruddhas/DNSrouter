@@ -1,0 +1,12 @@
+dnsconfig:
+    port: 10025
+    customgw: 192.168.1.2
+    customdev: eth1 
+    resolvconf: ./resolv.conf
+patterns:
+    - whatismyip.org
+    - whatsapp
+    - airtel
+    - facebook
+    - fbcdn
+    - youtube 
